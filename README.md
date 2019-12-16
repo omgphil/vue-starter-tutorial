@@ -1,24 +1,8 @@
-# vue-starter
+# Vue Starter Project
+Followed a little tutorial for a VueJS project 
+[VueJS Tutorial: Zero to Sixty](https://www.youtube.com/watch?v=VEhFLM8tw0o)
 
-## Project setup
-```
-npm install
-```
+## Things to Improve
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* Rewrite in TypeScript
+* Make Custom API in C#
